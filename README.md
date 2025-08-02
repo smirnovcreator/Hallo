@@ -1,2 +1,2 @@
-# Hallo
-say hallo
+# Hello
+say hello
